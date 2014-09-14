@@ -1,0 +1,80 @@
+body{
+			/*this is css comment example*/
+			background-color: #377270;
+		}	
+		
+		p {
+			color: #DDE8EE;
+			font-family: "Times New Roman";
+ 		 	font-family: serif;
+ 			font-family: "Arial", sans-serif;
+ 			font-size: 12px;
+  			font-size: 1.5em;
+ 		 	font-size: 100%;
+		}
+		
+		.3792A4 {
+			color:#3792A4;
+		}
+	
+		h2 {
+			color:#2E605D;
+		}
+		
+		img {
+		}
+		
+		.warning {
+			color: #DDE8EE;
+		}
+		
+		#header{
+			padding: 30px 40px 5px 40px;
+			margin: auto;
+			width: 800px;
+		}
+		
+		#intro{
+			padding: 10px 40px 5px 40px;
+		}
+		
+		#pquote {
+    		border-top: 3px solid #142829;
+    		border-bottom: 3px solid #142829;
+    		color: #142829;
+    		font-style: italic;
+    		margin: 30px;
+    		padding: 30px;    
+    		text-align: center; 
+		} 
+		
+		#maincontent{
+			padding: 10px 40px 5px 40px;
+		}
+		
+		#bottomcontent{
+			padding:0px 40px 5px 40px;
+			clear:both;	
+		}
+		
+		#footer{
+			padding:20px 40px 5px 40px;
+			border:6px solid #142829;
+		}
+		
+		.black {
+			color:black;
+		}
+		
+		a:link {
+  			color:black;
+		}
+		
+		a:visited {
+			color:black;
+		}
+		
+		a:hover {
+			color:black;
+		}
+		
